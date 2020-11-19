@@ -10,7 +10,7 @@ Docker simplifies developing and releasing software by unifying environments and
 
 ## Full Course
 
-[Developing and Delivering Software with Docker](https://www.linkedin.com/learning/paths/developing-and-delivering-software-with-docker?u=57692769)
+* [Developing and Delivering Software with Docker](https://www.linkedin.com/learning/paths/developing-and-delivering-software-with-docker?u=57692769)
 
 ## Course Classes
 
